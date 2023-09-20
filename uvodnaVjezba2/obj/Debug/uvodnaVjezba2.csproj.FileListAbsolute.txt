@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\uvodnaVjezba2\bin\Debug\uvodnaVjezba2.exe.config
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\uvodnaVjezba2\bin\Debug\uvodnaVjezba2.exe
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\uvodnaVjezba2\bin\Debug\uvodnaVjezba2.pdb
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\uvodnaVjezba2\obj\Debug\uvodnaVjezba2.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\uvodnaVjezba2\obj\Debug\uvodnaVjezba2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\uvodnaVjezba2\obj\Debug\uvodnaVjezba2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\uvodnaVjezba2\obj\Debug\uvodnaVjezba2.exe
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\uvodnaVjezba2\obj\Debug\uvodnaVjezba2.pdb
